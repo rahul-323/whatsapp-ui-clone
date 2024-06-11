@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # chat_app
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# whatsapp-ui-clone
+Developing a Clone of WhatsApp UI using Dart as Language in Flutter.
+>>>>>>> 6bc51cf3a149e8c763f6bdb4085fac18d336a475
